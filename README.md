@@ -1,4 +1,3 @@
-# https://github.com/RomanovetsD/portfolio
+# https://romanovetsd.github.io/portfolio/
 
 
-https://github.com/RomanovetsD/portfolio
